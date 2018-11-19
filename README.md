@@ -1,2 +1,2 @@
 # Hackathon-2018-19
-Project for BLC Hackathon event
+Project for BLC HackTogether 2018
