@@ -1,2 +1,2 @@
-# Hackathon-2018-19
+# FRC Inventory
 Project for BLC HackTogether 2018
